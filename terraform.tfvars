@@ -6,7 +6,7 @@ scriptedApiData = {
     locations_public     = ["AP_SOUTH_1", "AP_EAST_1"]
     period               = "EVERY_6_HOURS"
 
-    script               = "console.log('Great work!')"
+    script               = "script1.js"
 
     script_language      = "JAVASCRIPT"
     runtime_type         = "NODE_API"
@@ -21,7 +21,7 @@ scriptedApiData = {
     locations_public     = ["AP_SOUTH_1", "AP_EAST_1"]
     period               = "EVERY_6_HOURS"
 
-    script               = "console.log('it works!')"
+    script               = "script2.js"
 
     script_language      = "JAVASCRIPT"
     runtime_type         = "NODE_API"
